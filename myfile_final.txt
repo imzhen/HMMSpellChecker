@@ -1,0 +1,25 @@
+// right, right (11)
+business###i could still have my busness in town.
+wednesday###the wensday market is under construction.
+awkward###you just put me in an aukward position.
+sandwich###he started to take a bite of his sanwich and then stopped.
+accommodation###in spite of the uncomfortable sleeping accomodation and the situation, she fell asleep almost instantly.
+prominent###two weeks was hardly long enough for the media to forget the arrest of a prominant doctor's son for selling drugs.
+develop###they were already beginning to devellope different personalities.
+possession###she barely had time to lift the veil before he took possesion of her lips as well.
+appetite###i know your appitite for women and men
+anything###he does not like to do anythin else.
+examination###both passed the examiantion successfully.
+// wrong, wrong (5)
+visible###his black gaze was still visable in the dark living room.
+could###what coud he do about it but lose more sleep?
+who###the boy whoe sat beside him was his son.
+souvenir###it's my souviner from ohio.
+meant###i only ment it would be good to get out of the house
+// wrong, right (1)
+only###I gets lonley out there all by myself.
+// right, wrong (4)
+remember###do you rember that rumor in school?
+stick###you stickr close to these men.
+consistent###her speed was consistant.
+friend###sleep was not her freind during the day.
